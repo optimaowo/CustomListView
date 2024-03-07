@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="africaZAR">ZAR</string>
+    <string name="russianRUB">RUB</string>
+    <string name="singaporeSGD">SGD</string>
+    <string name="turkishTRY">TRY</string>
+    <string name="FranceEUR">EUR</string>
+    <string name="CanadaDOL">DOL</string>
+
+    <string name="africa">South African\nrand</string>
+    <string name="russian">Russian\nrouble</string>
+    <string name="singapore">Singapore\ndollar</string>
+    <string name="turkish">Turkish\nlira</string>
+    <string name="french">France\neuro</string>
+    <string name="canada">Canada\ndollar</string>
+
+    <string name="moskva">Moscow</string>
+    <string name="capetown">CapeTown</string>
+    <string name="singa">SingaPore</string>
+    <string name="ankara">Ankara</string>
+    <string name="parish">Parish</string>
+    <string name="ottava">Ottawa</string>
+
+<string name="flag">flag</string>
+</resources>
